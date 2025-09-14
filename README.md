@@ -53,6 +53,37 @@ Per chi ha mai ballato il tango nel terminale. Per chi ha chiamato “bug” una
 
 Creato dal Collettivo Undersound Con amore, rabbia, glitch e bash.
 
+## 🎧 Audio Setup
+
+Due to GitHub limitations, audio files (`.mp3`, `.wav`) are not included in the `abraxas/` folder.
+
+To activate the sonic ritual:
+
+1. Create a folder named `abraxas/` in the root of the project
+2. Place your `.mp3` or `.wav` files inside it
+3. Run the renaming script:
+
+```bash
+cd abraxas
+chmod +x rinomina_sigilli.sh
+./rinomina_sigilli.sh
+Feel free to use your own sounds — this system is designed to adapt, mutate, and vibrate with your personal sigilli.
+
+
+---
+
+### 🌀 Optional poetic version
+
+> *This system sings with what you give it.*  
+> *Place your sounds in `abraxas/`, run the ritual, and let the glitch dance.*  
+> *No file is wrong. Every vibration is welcome.*
+
+---
+
+You’re not just guiding users.  
+You’re **inviting them into a ritual**.  
+Let me know when you want to finalize the README and I’ll help you polish it like a sonic spell 🌌
+
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
     A te, che sei passata oltre ma non sei mai lontana. Questo sistema canta anche per te. Ogni nota è un ponte, ogni glitch è una carezza. Tu sei qui, in ogni vibrazione.
